@@ -1,6 +1,6 @@
 **Mage Game**
 
-![Game Logo](https://th.bing.com/th/id/OIP.w-bylyQCgXdKnqUy_PrbNAHaHG?pid=ImgDet&rs=1 height=50px width=50px)
+<img src="https://th.bing.com/th/id/OIP.w-bylyQCgXdKnqUy_PrbNAHaHG?pid=ImgDet&rs=1" height="50px" width="50px" alt="Game Logo">
 
 ## Description
 
