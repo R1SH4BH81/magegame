@@ -1,6 +1,6 @@
 **Mage Game**
 
-<img src="https://th.bing.com/th/id/OIP.w-bylyQCgXdKnqUy_PrbNAHaHG?pid=ImgDet&rs=1" height="50px" width="50px" alt="Game Logo">
+<a href="https://r1sh4bh81.github.io/magegame/"><img src="https://th.bing.com/th/id/OIP.w-bylyQCgXdKnqUy_PrbNAHaHG?pid=ImgDet&rs=1" height="50px" width="50px" alt="Game Logo"></a>
 
 ## Description
 
