@@ -162,7 +162,7 @@ toast.apply_design({
 
 var create_coin_counter = function() {
     var div = new Element({
-        background: "url("+link+")",
+        
         backgroundPosition: "0 -256px",
         backgroundSize: "512px 512px",
         width: "32px", height: "32px", textAlign: "center",
