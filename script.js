@@ -162,7 +162,7 @@ toast.apply_design({
 
 var create_coin_counter = function() {
     var div = new Element({
-        
+        background: "url("+link+")",
         backgroundPosition: "0 -256px",
         backgroundSize: "512px 512px",
         width: "32px", height: "32px", textAlign: "center",
@@ -486,7 +486,7 @@ var mana_selector = new ScrollSelector(50, 50, [1,2,3,4,5], function(v) {
 var shop_mana_potion = new Element({
     width: "50px", height: "50px",
     left: "0", position: "absolute", top: "0",
-    backgroundImage: "url("+link+")",
+    
     backgroundSize: "800px 800px",
     backgroundPosition: "0 -500px",
     lineHeight: "72px", color: "#000",
