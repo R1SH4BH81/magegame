@@ -20,7 +20,7 @@ Welcome to our Super Mario-inspired game! This is a fun and exciting adventure g
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/r1sh4bh81/magegame.git`
+1. Clone the repository: `https://github.com/R1SH4BH81/magegame.git`
 
 2. Open `index.html` in your preferred web browser.
 
