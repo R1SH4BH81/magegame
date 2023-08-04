@@ -10,7 +10,7 @@ html,body {
 canvas {
     width: 100%;
     height: 100%;
-    background-color: black;
+    background-image :url("https://i.imgur.com/epSeAdJ.jpg");
     padding: 0;
     position: absolute;
     
