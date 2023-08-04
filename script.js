@@ -2284,7 +2284,7 @@ var init_map = function(map) {
     map.data.solid_tiles = [1,2,3,4];
     map.enemy_tile = 9;
     var img = new Image();
-    img.src = "https://i.imgur.com/epSeAdJ.jpg";
+   
     map.background_img = img;
 };
 
