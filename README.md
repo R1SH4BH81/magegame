@@ -1,7 +1,6 @@
 **Mage Game**
 
-<a href="https://r1sh4bh81.github.io/magegame/"><img src="https://th.bing.com/th/id/OIP.w-bylyQCgXdKnqUy_PrbNAHaHG?pid=ImgDet&rs=1" height="50px" width="50px" alt="Game Logo"></a>
-
+https://rishabhcv.vercel.app/projects/mage-game-contribution
 ## Description
 
 Welcome to our Super Mario-inspired game! This is a fun and exciting adventure game that pays homage to the classic Super Mario while adding its own unique twists. Dive into a vibrant and immersive world filled with nostalgic elements and fresh gameplay.
